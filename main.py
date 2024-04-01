@@ -22,6 +22,7 @@ elif aichoice == 2:
     elif humanchoice == paper:
         print(f"You tied, AI picked paper, you picked {humanchoice}")
     elif humanchoice == scissors:
+      
         print(f"You won, AI picked paper, you picked {humanchoice}")
 
 elif aichoice == 3:
